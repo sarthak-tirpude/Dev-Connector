@@ -2,4 +2,4 @@
 
 > Social network for developers
 
-This is a MERN stack application from the "MERN Stack Front To Back". 
+This is a full-stack MERN application. 
